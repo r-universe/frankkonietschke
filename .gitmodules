@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "nparLD"]
 	path = nparLD
-	url = https://github.com/cran/nparLD
+	url = https://github.com/frankkonietschke/nparld
 [submodule "rankFD"]
 	path = rankFD
 	url = https://github.com/cran/rankFD
